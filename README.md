@@ -1,6 +1,6 @@
 This is a project for practice with jQuery that is based on the fiddle tunes in Laura Ingalls Wilder's "Little House on the Prairie" books. 
 
-There is a web site at http://www.liwfrontiergirl.com/fiddle.html that has many of Pa's tunes, together with the literary context in which they are referenced in the book series. 
+There is a web site at http://www.liwfrontiergirl.com/fiddle.html that has many of Pa's tunes, together with the literary context in which they are referenced in the book series, as well as the corresponding .mid audio files. 
 
 I wanted to extract just the tune names without all the additional text and links. 
 
@@ -16,3 +16,5 @@ Note: minimal changes to the original HTML were made:
     the subsequent text to be hidden in the output. 
  3. Format on Save is enabled in VS Code which may have made minor HTML formatting changes.
  ```
+ 
+To run, just download ExtractPa'sTunes.html and open in a browser. The original content is suppressed, and the concise list of tunes is displayed. 
